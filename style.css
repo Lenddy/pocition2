@@ -1,0 +1,67 @@
+*{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.container{
+    background-color: whitesmoke;
+    border:1px solid black ;
+    width: 800px;
+    height: 400px;
+}
+
+.top{
+    width:inherit ;
+    height: 100px;
+    background-color: teal;
+}
+
+.b{
+    height: -10px;
+    width: 10px;
+    float: left;
+    margin-left:10px ;
+}
+
+#b2 {
+    width: 100px;
+    margin-left: 10px;
+}
+
+#l1{
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.l1{
+    display: inline;
+    width: 10px;
+}
+
+.name{
+    margin-top: 100px;
+}
+
+#E{
+    vertical-align: top;
+    display: inline;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color: blue;
+
+}
+#gear{
+    display: inline ;
+    width: 20px;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.dedication{
+    margin-top: 20px;
+    margin-left: 20px;
+}
